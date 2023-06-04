@@ -12,10 +12,11 @@ body {
   width: 100%;
   max-width: 800px;
 }
-.tree .username {
-  text-transform: uppercase;
-  font-weight: 600;
+.tree .comments {
+  font-weight: 400;
   margin: 2em;
+  color: #fff;
+  color: rgba(255, 255, 255, 0.7);
 }
 .tree .links a {
   margin: 0.75em auto;
